@@ -1,9 +1,9 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <Nullable>enable</Nullable>
     <LangVersion>9.0</LangVersion>
-    <TargetFrameworks>net462;netstandard2.0;netcoreapp2.0;</TargetFrameworks>
+    <TargetFrameworks>net48</TargetFrameworks>
     <AssemblyName>LiveChartsCore.SkiaSharpView</AssemblyName>
     <RootNamespace>LiveChartsCore.SkiaSharpView</RootNamespace>
     <Version>2.0.0-beta.71</Version>

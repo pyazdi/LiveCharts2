@@ -4,8 +4,8 @@ using LiveChartsCore.SkiaSharpView.Drawing;
 using LiveChartsCore.SkiaSharpView.Painting;
 using LiveChartsCore.UnitTesting.MockedObjects;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using SkiaSharp;
 using System.Collections.Generic;
+using SkiaSharp;
 
 namespace LiveChartsCore.UnitTesting
 {
